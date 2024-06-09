@@ -46,4 +46,4 @@ The results of our experiments showed that convolutional neural networks (CNNs) 
  Shifeng Hong: Implemented random forest classifier and generated graphs.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.=
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
