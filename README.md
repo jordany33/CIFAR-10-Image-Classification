@@ -12,11 +12,11 @@ We investigated the following classifiers:
 
 ## Project Structure
 - **data/**: Contains the CIFAR-10 dataset.
-- `CIFAR-10_logistic_Classifier_Implementation.ipynb`
-- `CIFAR-10_Neural_Network.ipynb`
-- `CIFAR-10_Random_Forest.ipynb`
-- `CIFAR-10_report.ipynb`
-- **results/**: Contains graphs and results generated from the models.
+- **CIFAR-10_logistic_Classifier_Implementation.ipynb**: Logistic regression
+- **CIFAR-10_Neural_Network.ipynb**: CNN and MLP
+- **CIFAR-10_Random_Forest.ipynb**: Random Forest
+- **CIFAR-10_kNN_Classifier_Implementation.ipynb**: kNN
+- **CIFAR-10_report.ipynb**: Contains graphs and results generated from the models.
 - **README.md**: Project overview and instructions.
 
 ## Setup
