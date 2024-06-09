@@ -12,11 +12,10 @@ We investigated the following classifiers:
 
 ## Project Structure
 - **data/**: Contains the CIFAR-10 dataset.
-- **notebooks/**: Jupyter notebooks with code implementations.
-  - `CIFAR-10_logistic_Classifier_Implementation.ipynb`
-  - `CIFAR-10_Neural_Network.ipynb`
-  - `CIFAR-10_Random_Forest.ipynb`
-  - `CIFAR-10_report.ipynb`
+- `CIFAR-10_logistic_Classifier_Implementation.ipynb`
+- `CIFAR-10_Neural_Network.ipynb`
+- `CIFAR-10_Random_Forest.ipynb`
+- `CIFAR-10_report.ipynb`
 - **results/**: Contains graphs and results generated from the models.
 - **README.md**: Project overview and instructions.
 
