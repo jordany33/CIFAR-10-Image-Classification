@@ -30,7 +30,7 @@ We investigated the following classifiers:
    pip install -r requirements.txt
 
 ## Usage
-Run the Jupyter notebooks in the notebooks/ directory to see the implementation of each classifier and the corresponding results.
+Run the Jupyter notebooks to see the implementation of each classifier and the corresponding results.
 
 ## Results
 The results of our experiments showed that convolutional neural networks (CNNs) achieved the highest accuracy, followed by random forests. We also observed that kNN and logistic regression performed well under certain hyperparameter settings.
@@ -46,4 +46,4 @@ The results of our experiments showed that convolutional neural networks (CNNs) 
  Shifeng Hong: Implemented random forest classifier and generated graphs.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.=
