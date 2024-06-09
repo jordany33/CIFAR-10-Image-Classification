@@ -34,7 +34,7 @@ Run the Jupyter notebooks to see the implementation of each classifier and the c
 ## Results
 The results of our experiments showed that convolutional neural networks (CNNs) achieved the highest accuracy, followed by random forests. We also observed that kNN and logistic regression performed well under certain hyperparameter settings.
 
-#Insights 
+##Insights 
 - Classifiers struggled to distinguish between different animal classes.
 - Data preprocessing and hyperparameter tuning significantly impacted model performance.
 - Practical applications include object recognition in autonomous vehicles, security and surveillance, and medical imaging analysis.
