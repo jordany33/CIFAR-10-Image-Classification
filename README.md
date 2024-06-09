@@ -42,7 +42,7 @@ The results of our experiments showed that convolutional neural networks (CNNs) 
 ## Contributors
 - Jordan Yee: Implemented kNN and logistic regression classifiers.
 - Travis Moore: Designed neural network structures for MLP and CNN.
- Shifeng Hong: Implemented random forest classifier and generated graphs.
+- Shifeng Hong: Implemented random forest classifier and generated graphs.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
