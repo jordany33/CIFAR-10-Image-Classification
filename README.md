@@ -32,3 +32,18 @@ We investigated the following classifiers:
 ## Usage
 Run the Jupyter notebooks in the notebooks/ directory to see the implementation of each classifier and the corresponding results.
 
+## Results
+The results of our experiments showed that convolutional neural networks (CNNs) achieved the highest accuracy, followed by random forests. We also observed that kNN and logistic regression performed well under certain hyperparameter settings.
+
+#Insights 
+- Classifiers struggled to distinguish between different animal classes.
+- Data preprocessing and hyperparameter tuning significantly impacted model performance.
+- Practical applications include object recognition in autonomous vehicles, security and surveillance, and medical imaging analysis.
+
+## Contributors
+- Jordan Yee: Implemented kNN and logistic regression classifiers.
+- Travis Moore: Designed neural network structures for MLP and CNN.
+ Shifeng Hong: Implemented random forest classifier and generated graphs.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
